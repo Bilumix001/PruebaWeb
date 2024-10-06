@@ -52,7 +52,7 @@ function Header(props){
         
         <div className="header">
             <div className="logo">
-                <img src="../../public/logo.png" alt="" />
+                <img src="/logo.jpeg" alt="" />
                 <div>
                     <p className='p1'>Connected</p>
                     <p className='p2'>Ear</p>
