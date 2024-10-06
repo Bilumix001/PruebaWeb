@@ -1,6 +1,6 @@
 import './App.css'
 import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
-import Pagehead from './Pages/PageHead'
+import Principal from './Pages/Principal'
 import Portada from './Pages/Portada'
 
 function App() {
@@ -10,7 +10,7 @@ function App() {
     <Router>
       <Routes>
         <Route path='/' element={<Portada/>}/>
-        <Route path="/pagehead" element={<Pagehead/>} />
+        <Route path="/principal" element={<Principal/>} />
         
       </Routes>
     </Router>

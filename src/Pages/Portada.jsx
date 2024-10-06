@@ -12,7 +12,7 @@ function Portada(){
             <div className="contest">NASA Space Apps Challenge</div>
             
             <div className="challenge">
-            <Link className='linksito' to="/pagehead"> 
+            <Link className='linksito' to="/principal"> 
                 <p>IMAGINE OUR</p>
                 <p className='p2'>CONNECTED EARTH</p>
             </Link>  

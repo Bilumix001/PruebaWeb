@@ -1,11 +1,11 @@
 import Header from '../Components/Header'
-import '../Styles/PageHead.css'
+import '../Styles/Principal.css'
 
-function PageHead(params) {
+function Principal(params) {
     return(
     <>
         <Header></Header>
     </>);
 }
 
-export default PageHead
+export default Principal
